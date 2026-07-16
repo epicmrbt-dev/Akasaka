@@ -1,0 +1,6 @@
+{
+  "name": "あかさかの箱 コレクション",
+  "description": "「あかさかの箱」のコレクションを可愛く管理・閲覧できるコレクション管理ツールです。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

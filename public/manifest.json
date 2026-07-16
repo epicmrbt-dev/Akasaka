@@ -1,0 +1,28 @@
+{
+  "short_name": "あかさか箱",
+  "name": "あかさかの箱 コレクション",
+  "description": "「あかさかの箱」のコレクションを可愛く管理・閲覧できるコレクション管理ツールです。",
+  "icons": [
+    {
+      "src": "/favicon.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#f8fafc",
+  "theme_color": "#87CEEB",
+  "display": "standalone",
+  "orientation": "portrait"
+}
